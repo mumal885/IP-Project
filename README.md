@@ -1,5 +1,5 @@
 
-![logo](https://github.com/mumal885/Speed-calculator/blob/main/Text%20converter.png)
+![logo](https://github.com/mumal885/IP-Project/blob/main/IP.png)
 # IP-Project
 This IP-Project is coded in html, css,js.
 
